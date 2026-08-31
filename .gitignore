@@ -1,0 +1,17 @@
+# Mengabaikan folder Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Mengabaikan file kunci rahasia / environment variables
+.env
+.env.local
+
+# Mengabaikan file cache Python
+__pycache__/
+*.pyc
+
+# Mengabaikan file konfigurasi editor
+.vscode/
+.DS_Store
